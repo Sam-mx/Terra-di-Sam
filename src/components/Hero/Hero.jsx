@@ -15,7 +15,7 @@ const Hero = () => {
         <p className="hero-description">
           Experience the Taste of Italy on Our Terrace with Freshly Baked Pasta Recipes
         </p>
-        <a href="#explore" className="hero-button">Explore</a>
+        <a href="#visit" className="hero-button">Explore</a>
         <div className="hero-rating">★★★★★</div>
         <p className="hero-subtitle">Warm and Friendly Italian Dining Experience</p>
       </div>
