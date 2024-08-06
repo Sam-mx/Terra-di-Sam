@@ -23,26 +23,30 @@
   
 .visit-title {
     font-size: 48px;
-    margin-bottom: 15px;
+    margin-bottom: 30px;
     color: #333; 
 }
   
 .visit-description {
     font-size: 16px;
-    margin-bottom: 30px;
+    margin-bottom: 40px;
     color: #666; 
 }
   
 .visit-button {
     display: inline-block;
-    padding: 15px 50px;
+    width: 14rem;
+    height: 50px;
     font-size: 16px;
     color: #0d141a;
     border: solid 1px #0d141a;
+    text-align: center; 
     text-decoration: none;
     border-radius: 28px;
     transition: background-color 0.3s ease;
+    line-height: 50px;
 }
+
   
 .visit-button:hover {
     background-color: #690000;
@@ -75,7 +79,17 @@
     }
     
     .visit-button {
-        padding: 12px 30px;
+        width: 100%; 
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 480px) {
+    .visit-button {
+        width: 100%; 
+        max-width: 300px;
+        padding: 0;
+        font-size: 14px;
     }
 }
   
