@@ -1,7 +1,7 @@
 # Terra di Sam
 
 <a href="https://terra-di-sam.vercel.app/" target="_blank">
-![Untitled (2500 x 1500 px)](https://github.com/user-attachments/assets/b3f79f00-06f3-4cb8-86d1-4ccc66ccd428)
+<img src="./src/assets/readme.png" alt="Project Banner">
 </a>
 
 ## 🤖 Introduction
